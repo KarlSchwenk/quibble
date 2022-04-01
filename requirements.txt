@@ -1,2 +1,4 @@
 numpy==1.18.5
 setuptools==61.3.0
+build==0.7.0
+twine==4.0.0

@@ -12,7 +12,7 @@ setup(
     url='https://github.com/KarlSchwenk/quibble',
     license='LGPL-2.1',
     author='KarlSchwenk',
-    author_email='karl.max.schwenk@gmail.com',
+    author_email='km.schwenk@web.de',
     description='Framework for Various Optimization Tasks',
     long_description=long_description,
     long_description_content_type="text/markdown",
