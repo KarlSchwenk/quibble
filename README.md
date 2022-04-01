@@ -1,6 +1,10 @@
 # Quibble
 
-> UNDER CONSTRUCTION - MORE COMING SOON
+> UNDER CONSTRUCTION 🚧 
+
+> MORE COMING SOON 🔜
+
+> STAY TUNED 📻
 
 ## Why Quibble? :thinking:
 Framework for various optimization tasks.
@@ -12,7 +16,7 @@ Simply use the python package installer to get `quibble`:
 pip install quibble
 ```
 
-> Package is currently being integrated into PyPI, so please be patient if it is not yet working
+> Package is currently being integrated into PyPI, so please be patient if it is not yet working 🙂
 
 ## Examples
 Here, you can find some minimal example to demonstrate the use of `quibble`.
